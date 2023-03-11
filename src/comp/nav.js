@@ -374,7 +374,7 @@ const Nav = () => {
 
                     </div>
                     <br />
-                    <div class="px-8 py-5  border-violet-800 border-8 rounded-xl bg-white">
+                    {/* <div class="px-8 py-5  border-violet-800 border-8 rounded-xl bg-white">
                         <h1 class="text-2xl font-semibold text-black capitalize dark:text-white">Publication Details :</h1>
                         <br />
                         <h2 class="text-xl font-semibold">
@@ -390,7 +390,7 @@ const Nav = () => {
 
                         </ol>
 
-                    </div>
+                    </div> */}
                     <br />
                     <div class="grid grid-flow-col" >
                         <div class="px-8 py-5  border-orange-200 border-8 rounded-xl bg-teal-300" >
